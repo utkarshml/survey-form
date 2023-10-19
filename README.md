@@ -3,7 +3,7 @@
 This is a simple HTML form for conducting a survey. The form collects information from the user and provides a way for them to submit their responses.
 
 
-<a style="text-align:center" href="https://github.com/utkarshml/Todo/issues">Bug Report</a>-<a style="text-align:center" href="https://github.com/utkarshml/Todo/issues">Add Feature</a>
+<a style="text-align:center" href="https://github.com/utkarshml/survey-form/issues">Bug Report</a>-<a style="text-align:center" href="https://github.com/utkarshml/survey-form/issues">Add Feature</a>
 
 ## Form Sections
 
