@@ -1,6 +1,7 @@
 # Survey Form
 
 This is a simple HTML form for conducting a survey. The form collects information from the user and provides a way for them to submit their responses.
+<a style="text-center" href="">Bug Report</a>-<a style="text-center" href="">Add Feature</a>
 
 ## Form Sections
 
